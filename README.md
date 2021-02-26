@@ -24,4 +24,15 @@ for the submodules run:
 conda env create -f environment-local.yml
 ```
 
+Setup upstreams for all sub-repos correctly:
+
+```
+cd grakn-pytorch-example
+git checkout main
+cd ../grakn-pytorch-geometric
+git checkout main
+cd ../kglib
+git checkout master
+```
+
 This is just for local development with CPU, because context matters.
