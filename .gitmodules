@@ -1,9 +1,9 @@
 [submodule "grakn-pytorch-geometric"]
 	path = grakn-pytorch-geometric
-	url = https://github.com/jorenretel/grakn-pytorch-geometric
+	url = https://github.com/bayer-science-for-a-better-life/grakn-pytorch-geometric.git
 [submodule "grakn-pytorch-example"]
 	path = grakn-pytorch-example
-	url = https://github.com/jorenretel/grakn-pytorch-example
+	url = https://github.com/bayer-science-for-a-better-life/grakn-pytorch-example.git
 [submodule "kglib"]
 	path = kglib
-	url = https://github.com/hkuich/kglib
+	url = https://github.com/hkuich/kglib.git
