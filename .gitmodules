@@ -7,3 +7,6 @@
 [submodule "kglib"]
 	path = kglib
 	url = https://github.com/hkuich/kglib.git
+[submodule "gp-gene-expression"]
+	path = gp-gene-expression
+	url = https://github.com/bayer-science-for-a-better-life/gp-gene-expression.git
