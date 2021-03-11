@@ -10,3 +10,6 @@
 [submodule "gp-gene-expression"]
 	path = gp-gene-expression
 	url = https://github.com/bayer-science-for-a-better-life/gp-gene-expression.git
+[submodule "graph-dash-app"]
+	path = graph-dash-app
+	url = https://github.com/bayer-science-for-a-better-life/graph-dash-app.git

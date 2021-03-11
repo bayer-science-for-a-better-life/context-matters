@@ -14,6 +14,7 @@ dependencies:
   - pip:
     - -e kglib
     - -e grakn-pytorch-geometric
+    - -e graph-dash-app
     - dash
     - dash-cytoscape
     - pytest
