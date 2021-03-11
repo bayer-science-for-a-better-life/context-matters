@@ -14,6 +14,8 @@ dependencies:
   - pip:
     - -e kglib
     - -e grakn-pytorch-geometric
+    - dash
+    - dash-cytoscape
     - pytest
     - grakn-client==2.0.0-alpha-8
     - torch-scatter -f https://pytorch-geometric.com/whl/torch-1.7.0+cpu.html
