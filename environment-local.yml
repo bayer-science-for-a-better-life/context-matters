@@ -17,7 +17,7 @@ dependencies:
     - dash
     - dash-cytoscape
     - pytest
-    - grakn-client==2.0.0-alpha-10
+    - grakn-client==2.0.0
     - torch-scatter -f https://pytorch-geometric.com/whl/torch-1.7.0+cpu.html
     - torch-sparse -f https://pytorch-geometric.com/whl/torch-1.7.0+cpu.html
     - torch-cluster -f https://pytorch-geometric.com/whl/torch-1.7.0+cpu.html
