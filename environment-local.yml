@@ -1,14 +1,14 @@
-name: context-is-everything
+name: context-matters
 channels:
-  - conda-forge
   - pytorch
+  - conda-forge
 dependencies:
-  - python=3.7
+  - python=3.9
   - pip
   - networkx
   - matplotlib
   - pandas
-  - pytorch=1.7.0
+  - pytorch=1.8.1
   - pytorch-lightning
   - pip:
     - -e kglib
@@ -18,8 +18,8 @@ dependencies:
     - dash-cytoscape
     - pytest
     - grakn-client==2.0.0
-    - torch-scatter -f https://pytorch-geometric.com/whl/torch-1.7.0+cpu.html
-    - torch-sparse -f https://pytorch-geometric.com/whl/torch-1.7.0+cpu.html
-    - torch-cluster -f https://pytorch-geometric.com/whl/torch-1.7.0+cpu.html
-    - torch-spline-conv -f https://pytorch-geometric.com/whl/torch-1.7.0+cpu.html
+    - torch-scatter -f https://pytorch-geometric.com/whl/torch-1.8.0+cpu.html
+    - torch-sparse -f https://pytorch-geometric.com/whl/torch-1.8.0+cpu.html
+    - torch-cluster -f https://pytorch-geometric.com/whl/torch-1.8.0+cpu.html
+    - torch-spline-conv -f https://pytorch-geometric.com/whl/torch-1.8.0+cpu.html
     - torch-geometric
