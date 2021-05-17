@@ -24,7 +24,7 @@ for the submodules run:
 conda env create -f environment-local.yml
 ```
 
-update env (while having context-is-everything active):
+update env (while having context-matters active):
 
 ```
 conda env update -f environment-local.yml --prune
@@ -33,7 +33,7 @@ conda env update -f environment-local.yml --prune
 Setup upstreams for all sub-repos correctly:
 
 ```
-cd grakn-pytorch-example
+cd typedb-pytorch-example
 git checkout main
 cd ../grakn-pytorch-geometric
 git checkout main
