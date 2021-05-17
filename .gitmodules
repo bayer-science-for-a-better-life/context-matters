@@ -1,5 +1,5 @@
 [submodule "grakn-pytorch-geometric"]
-	path = grakn-pytorch-geometric
+	path = typedb-pytorch-geometric
 	url = https://github.com/bayer-science-for-a-better-life/grakn-pytorch-geometric.git
 [submodule "grakn-pytorch-example"]
 	path = grakn-pytorch-example
@@ -13,3 +13,5 @@
 [submodule "graph-dash-app"]
 	path = graph-dash-app
 	url = https://github.com/bayer-science-for-a-better-life/graph-dash-app.git
+[submodule "typedb-pytorch-geometric"]
+	url = https://github.com/bayer-science-for-a-better-life/typedb-pytorch-geometric.git
