@@ -10,9 +10,10 @@ dependencies:
   - pandas
   - pytorch=1.8.1
   - pytorch-lightning
+  - torchmetrics
   - pip:
     - -e kglib
-    - -e grakn-pytorch-geometric
+    - -e typedb-pytorch-geometric
     - -e graph-dash-app
     - dash
     - dash-cytoscape
