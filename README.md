@@ -1,6 +1,12 @@
 Context Matters
 ===============
 
+
+## :bangbang: Disclaimer:
+These ideas have made it into **TypeDB ML** by now. Please Use that.
+https://github.com/vaticle/typedb-ml
+https://blog.vaticle.com/link-prediction-knowledge-graph-pytorch-geometric-f35917320806
+
 This repository hosts multiple submodules.
 
 
