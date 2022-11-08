@@ -1,7 +1,6 @@
 Context Matters
 ===============
 
-
 :bangbang: Disclaimer:
 These ideas have made it into **TypeDB ML** by now. Please Use that.
 * https://github.com/vaticle/typedb-ml
